@@ -1,0 +1,4 @@
+# The notebook is a one-off utility for recolouring the icon set, not part of the site.
+# Without this it outweighs the HTML and CSS by byte count and GitHub labels the whole
+# repository as Jupyter Notebook.
+*.ipynb linguist-detectable=false
